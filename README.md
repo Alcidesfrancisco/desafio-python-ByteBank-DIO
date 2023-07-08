@@ -16,17 +16,17 @@ Python 3 instalado
 
 ## 🖇️ Colaborando
 
-Abero a request pull e issues para melhorias
+Aberto a request pull e issues para melhorias
 
 ## ✒️ Autor
 
 Alcides Francisco
 
-* **Desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/Alcidesfrancisco/)
+* **Desenvolvedor** - *Trabalho Inicial* - [Alcides](https://github.com/Alcidesfrancisco/)
 
 ## 🎁 Expressões de gratidão
 
-* Grato a DIO e especialmente ao instrutor: Guilherme Carvalho (https://github.com/guicarvalho)
+* Grato a DIO e especialmente ao instrutor: [Guilherme_Carvalho](https://github.com/guicarvalho)
 
 
 ---
